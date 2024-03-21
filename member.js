@@ -13,4 +13,4 @@ const result1 = result.map((member) => {
     return member.name;
 });
 
-console.log(result1);
+console.log(result1);///ยังไม่ถูกต้อง
